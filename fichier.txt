@@ -2,4 +2,8 @@ une ligne de plus
 
 la ligne du conflit
 
+
 la nouvelle ligne qui merge
+
+nouvelle ligne de la branche
+
