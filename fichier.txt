@@ -2,3 +2,4 @@ une ligne de plus
 
 la ligne du conflit
 
+nouvelle ligne de la branche
