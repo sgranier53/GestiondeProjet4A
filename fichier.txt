@@ -1,2 +1,4 @@
 une ligne de plus
-ma ligne conflictuelle
+
+la ligne du conflit
+
